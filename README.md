@@ -1,4 +1,4 @@
-### <div align="center">🌱 JUÁ - Soluções em Tecnologias</div>  
+### <div align="center">🌱 JUÁ - Soluções em Tecnologia</div>  
   
 <table>
     <tr>
