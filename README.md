@@ -8,7 +8,7 @@
                 <li> 💻 Conheça mais sobre nós e nossos serviços clicando em <a href="https://github.com/Jua-TI" target="_blank">JUÁ</a>.</li>
             </ul>
         </td>
-        <td><img src="logo.jpg" width="600px"></td>
+        <td><img src="logo-jua.png" width="600px"></td>
     </tr>
 </table>
 <br/>  
