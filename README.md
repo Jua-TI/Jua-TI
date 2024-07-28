@@ -5,7 +5,7 @@
         <td>
             <ul>
                 <li> 🏢 Empresa Júnior do Curso de Sistemas de Informação - UFPI - CSHNB</li>
-                <li> 💻 Conheça mais sobre nós e nossos serviços clicando aqui <a href="https://github.com/Jua-TI" target="_blank">JUÁ</a>.</li>
+                <li> 💻 Conheça mais sobre nós e nossos serviços clicando em <a href="https://github.com/Jua-TI" target="_blank">JUÁ</a>.</li>
             </ul>
         </td>
         <td><img src="logo.jpg" width="600px"></td>
